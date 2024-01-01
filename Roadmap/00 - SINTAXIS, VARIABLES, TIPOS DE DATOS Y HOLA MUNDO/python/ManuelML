@@ -1,0 +1,28 @@
+# Este es un comentario de una línea en Python.
+
+'''
+Este es un comentario
+multilínea en Python.
+'''
+
+# URL del sitio web oficial de Python: https://www.python.org/
+# Representación de diferentes tipos de datos y variables en Python:
+
+# Variable
+mi_variable = 10
+
+# Constante (en Python, no hay una palabra clave para constantes, pero se usa la convención de nombrado en mayúsculas)
+MI_CONSTANTE = 3.1416
+
+# Tipos de datos primitivos
+cadena_texto = "Hola, mundo"
+entero = 42
+booleano = True
+flotante = 3.14
+lista = [1, 2, 3]
+tupla = (4, 5, 6)
+diccionario = {'clave': 'valor'}
+conjunto = {1, 2, 3}
+
+# Imprimir por terminal
+print("¡Hola, Python!")
